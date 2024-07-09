@@ -4,10 +4,10 @@
    
 
   <p align="center"  style="margin-top: 20px;">
-    🔗 <a href="https://github.com/Andreoew/nlw-journey">Link to complete project with frontend</a> 🔗
-    </br>
-    </br>
     🔗 <a href="https://github.com/Andreoew/nlw-journey/tree/main/backend">Link to backend</a> 🔗
+    </br>
+    </br>
+    🔗 <a href="https://github.com/Andreoew/nlw-journey">Link to frontend</a> 🔗
   </p>  
 
   <!-- Write here what the project is about. -->
