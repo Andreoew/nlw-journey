@@ -5,6 +5,7 @@
 
   <p align="center"  style="margin-top: 20px;">
     🔗 <a href="https://github.com/Andreoew/nlw-journey">Link to complete project with frontend</a> 🔗
+    🔗 <a href="https://github.com/Andreoew/nlw-journey/tree/main/backend">Link to backend</a> 🔗
   </p>  
 
   <!-- Write here what the project is about. -->
@@ -12,6 +13,6 @@
   The project is a backend for a travel management system among friends. With it, participants can create trips, invite friends, and manage activities during the trip. Guests receive confirmation links via email to confirm their participation. The API was developed in Node.js with TypeScript.
 
 🚧 Under Construction 🚧
-[✅] Frontend in React with Next.js
+[] Frontend in React with NextJS
 
 </p>
