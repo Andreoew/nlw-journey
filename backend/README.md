@@ -4,7 +4,7 @@
    
 
   <p align="center"  style="margin-top: 20px;">
-    🔗 <a href="https://github.com/Andreoew/nlw-journey">Link projeto completo com frontend</a> 🔗
+    🔗 <a href="https://github.com/Andreoew/nlw-journey">Link projects</a> 🔗
   </p>  
 
   <!-- Write here what the project is about. -->
