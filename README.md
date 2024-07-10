@@ -1,5 +1,8 @@
 <p align="center"> 
   <h1 align="center">Project built during the NLW-Journey in 2024.<span>Made with 💜 at Rockeseat.</span></h1>
+  <img width="900px" alt="Criação de viagem" title="Criação de viagem no postman" src="./frontend-1.png" />
+  <img width="900px" alt="Criação de viagem" title="Criação de viagem no postman" src="./frontend-2.png" />
+  <img width="900px" alt="Criação de viagem" title="Criação de viagem no postman" src="./frontend-3.png" />
   <img width="900px" alt="Criação de viagem" title="Criação de viagem no postman" src="./create-trip.png" />
    
 
