@@ -6,14 +6,8 @@
    
 
   <p align="center"  style="margin-top: 20px;">
-    🔗 <a href="https://github.com/Andreoew/nlw-journey">Link projeto completo com frontend</a> 🔗
-    </br>
-    </br>
-    🔗 <a href="https://github.com/Andreoew/nlw-journey/tree/main/backend">Link to backend</a> 🔗
-    </br>
-    </br>
-    🔗 <a href="https://github.com/Andreoew/nlw-journey/tree/main/frontend">Link to frontend</a> 🔗
-  </p>  
+    🔗 <a href="https://github.com/Andreoew/nlw-journey">Link to projects</a> 🔗
+  </p> 
 
   <!-- Write here what the project is about. -->
   <h1 align="center">About</h1>
