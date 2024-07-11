@@ -15,9 +15,13 @@
 
   <!-- Write here what the project is about. -->
   <h1 align="center">About</h1>
-  The project is a backend for a travel management system among friends. With it, participants can create trips, invite friends, and manage activities during the trip. Guests receive confirmation links via email to confirm their participation. The API was developed in Node.js with TypeScript.
+  The project is a backend and frontend for a travel management system among friends. With it, participants can create trips, invite friends, and manage activities during the trip. Guests receive confirmation links via email to confirm their participation. The API was developed in Node.js with TypeScript, and the frontend was built using React and Vite.
+
+🚧 Finished Project 🚧
+  []
+
 
 🚧 Under Construction 🚧
-[] Frontend in React with NextJS
+  [✅]
 
 </p>
